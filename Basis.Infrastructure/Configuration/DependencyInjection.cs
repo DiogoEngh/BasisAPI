@@ -31,15 +31,15 @@ namespace Basis.Infrastructure.Configuration
 
             using (var context = services.BuildServiceProvider())
             {
-                using var scope = context.CreateScope();
-                var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-                if (dbContext.Database.GetPendingMigrations().Any())
+                try
                 {
-                    try
+                    using var scope = context.CreateScope();
+                    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+                    if (dbContext.Database.GetPendingMigrations().Any())
                     {
                         dbContext.Database.Migrate();
-                    } catch { }
-                }
+                    }
+                } catch { }
             }
 
             return services;

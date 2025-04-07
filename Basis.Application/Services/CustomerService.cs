@@ -19,8 +19,7 @@ namespace Basis.Application.Services
 
         public async Task Create(CreateCustomerDto customerDto)
         {
-            var email = new Email(customerDto.Email);
-            var customer = new Customer(customerDto.Name, email);
+            var customer = new Customer(customerDto.Name, customerDto.Email);
 
             if (await _customerRepository.GetByEmail(customer.Email) is not null)
                 throw new ConflictException("Falha ao cadastrar, já existe um usuário com o e-mail informado.");
