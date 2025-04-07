@@ -1,0 +1,16 @@
+C:\Users\diogo\teste\Basis\Basis.Application\bin\Debug\net8.0\Basis.Application.deps.json
+C:\Users\diogo\teste\Basis\Basis.Application\bin\Debug\net8.0\Basis.Application.dll
+C:\Users\diogo\teste\Basis\Basis.Application\bin\Debug\net8.0\Basis.Application.pdb
+C:\Users\diogo\teste\Basis\Basis.Application\bin\Debug\net8.0\Basis.Domain.dll
+C:\Users\diogo\teste\Basis\Basis.Application\bin\Debug\net8.0\Basis.Domain.pdb
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.csproj.AssemblyReference.cache
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.AssemblyInfoInputs.cache
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.AssemblyInfo.cs
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.csproj.CoreCompileInputs.cache
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.sourcelink.json
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Ap.1D052E87.Up2Date
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.dll
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\refint\Basis.Application.dll
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\Basis.Application.pdb
+C:\Users\diogo\teste\Basis\Basis.Application\obj\Debug\net8.0\ref\Basis.Application.dll
